@@ -67,7 +67,7 @@ Key differences from SEO:
 
 ### Foundational Reading
 - [GEO vs SEO: What's Different When AI Answers Instead of Google](https://anchor.agentese.ai/blog/geo-vs-seo) — Core differences between traditional and generative search optimization
-- [Why Reddit is More Valuable Than Your Website for AI Visibility](https://anchorai.hashnode.dev/why-reddit-is-more-valuable-than-your-website-for-ai-visibility) — Third-party content strategy for GEO
+- [Reddit in Google vs ChatGPT: 700 Questions](https://highsalience.com/research/reddit-vs-chatgpt/) — Data on where Reddit shows up for software questions, in Google and in ChatGPT
 - [OpenAI Scored 71/100 on AI Visibility — The Irony No One is Talking About](https://anchor.agentese.ai/blog/openai-geo) — Case study on GEO scoring
 
 ### Strategy & Implementation
